@@ -1,4 +1,4 @@
-import DarkModeButton from './DarkModeButton.js';
+import DarkModeButton from './DarkModeButton.jsx';
 
 export default function Header() {
   return (

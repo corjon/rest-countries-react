@@ -1,8 +1,8 @@
 export default function FilterDropdown() {
   return (
-    <div>
+    <button>
       <p>Filter by Region</p>
       <img src="" alt="" />
-    </div>
+    </button>
   );
 }

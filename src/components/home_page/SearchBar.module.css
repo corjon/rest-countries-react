@@ -1,0 +1,16 @@
+.search {
+  margin-bottom: 40px;
+  padding: 16px 0 16px 32px;
+  width: 100%;
+  max-width: 480px;
+  border-radius: 5px;
+  box-shadow: 0px 2px 9px 0px rgba(0, 0, 0, 0.05);
+}
+
+.search::placeholder {
+  color: #C4C4C4;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px;
+}

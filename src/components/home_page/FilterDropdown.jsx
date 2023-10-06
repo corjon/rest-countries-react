@@ -1,8 +1,10 @@
+import styles from './FilterDropdown.module.css';
+
 export default function FilterDropdown() {
   return (
-    <button>
+    <div className={styles.dropdown} role="button">
       <p>Filter by Region</p>
       <img src="" alt="" />
-    </button>
+    </div>
   );
 }

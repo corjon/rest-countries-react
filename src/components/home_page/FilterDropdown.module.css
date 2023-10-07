@@ -1,7 +1,5 @@
 .dropdown {
-  display: flex;
-  justify-content: space-between;
-  padding: 18px 23px;
+  padding: 14px 19px 14px 24px;
   width: 200px;
   font-size: 12px;
   font-style: normal;

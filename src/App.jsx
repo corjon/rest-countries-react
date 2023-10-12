@@ -1,13 +1,13 @@
 import Header from './components/shared/Header.jsx';
-import SearchAndFilterContainer from './components/home_page/SearchAndFilterContainer.jsx';
+import MainContainer from './components/home_page/MainContainer.jsx';
 import './App.css';
 
 function App() {
   return (
-    <main>
+    <>
       <Header />
-      <SearchAndFilterContainer />
-    </main>
+      <MainContainer />
+    </>
   );
 }
 
